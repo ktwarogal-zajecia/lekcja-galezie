@@ -1,1 +1,2 @@
 to jest drugi plik
+to jest kolejna linijka
